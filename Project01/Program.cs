@@ -12,6 +12,8 @@ namespace Project01
         {
             Console.WriteLine("Hello world");
             Console.ReadLine();
+            Console.WriteLine("This is my first console app");
+            Console.ReadLine();
         }
     }
 }
